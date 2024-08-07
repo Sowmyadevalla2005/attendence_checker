@@ -1,4 +1,4 @@
-# Bunk Checker
+# Attendence Checker
 
 This is a Streamlit application that helps students track their attendance and calculate how many classes they can miss while still meeting the required attendance percentage.
 
