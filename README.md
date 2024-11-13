@@ -8,7 +8,7 @@ This is a Streamlit application that helps students track their attendance and c
 
     ```sh
     git clone <repository-url>
-    cd bunk-checker
+    cd attendence-checker
     ```
 
 2. **Open the project in Visual Studio Code with the Dev Container:**
