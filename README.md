@@ -7,7 +7,7 @@ This is a Streamlit application that helps students track their attendance and c
 1. **Clone the repository:**
 
     ```sh
-    git clone <repository-url>
+    https://github.com/Sowmyadevalla2005/attendence_checker.git
     cd attendence-checker
     ```
 
